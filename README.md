@@ -25,6 +25,6 @@
 
 #### Logo:
 
-   Learn Python | Learn Python
-  :-------------------------:|:-------------------------:
+Learn Python `#2B5B84` & `#FFD343` | Learn Python `#2B5B84` & `#FFD343`
+:-------------------------:|:-------------------------:
 ![Learn Python Logo](https://github.com/patashale/learn-python/assets/68323012/e10da58a-547e-4fec-bd4d-18016981c29c) | ![Learn Python Logo](https://github.com/patashale/learn-python/assets/68323012/e10da58a-547e-4fec-bd4d-18016981c29c)
